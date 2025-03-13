@@ -18,7 +18,7 @@ Unsupervised Learning is a type of machine learning where a model learns pattern
 ## 📂 How to Use
 # 1️⃣ Clone this repo:
 ```bash
-git clone https://github.com/anwesha0123/Unsupervised_Learning_Practice.git
+git clone https://github.com/<your-username>/Unsupervised_Learning_Practice.git
 ```
 # 2️⃣ Run Jupyter notebooks or Python scripts in proper python IDEs
 
