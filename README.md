@@ -24,4 +24,4 @@ git clone https://github.com/<your-username>/Unsupervised_Learning_Practice.git
 
 
 ## 📢 Contributions & Feedback  
-Feel free to fork, contribute, or open issues! Let's explore the power of unsupervised learning together. 🚀✨
+Feel free to fork, contribute, or open issues! Let's explore the power of unsupervised learning together. ✨
